@@ -1,4 +1,4 @@
-# SWAAGI Logo Specifications
+# SWAAGDOM Logo Specifications
 
 ## Logo Variations Available
 

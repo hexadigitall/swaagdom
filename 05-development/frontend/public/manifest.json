@@ -1,7 +1,7 @@
 {
-  "name": "SWAAGI - Your Drip Is Just A Vibe Away",
-  "short_name": "SWAAGI",
-  "description": "Where AI meets drip. Level up your fit with AI that gets your vibe. Look iconic. Feel iconic. Be iconic. 🔥",
+  "name": "SWAAGDOM — Style, intelligently.",
+  "short_name": "SWAAGDOM",
+  "description": "SWAAGDOM — Style, intelligently. Discover fashion, swaggadishly.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -32,7 +32,7 @@
       "src": "/logos/swaagi-logo-large.png",
       "sizes": "800x240",
       "type": "image/png",
-      "label": "SWAAGI AI Style Companion"
+      "label": "SWAAGDOM AI Style Companion"
     }
   ]
 }

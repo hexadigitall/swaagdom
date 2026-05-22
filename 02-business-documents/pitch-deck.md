@@ -1,7 +1,7 @@
-# SWAAGI - Investor Pitch Deck
+# SWAAGDOM - Investor Pitch Deck
 
 ## Slide 1: Title Slide
-**SWAAGI**
+**SWAAGDOM**
 *AI-Powered Personal Styling for Everyone*
 
 Helping millions discover their perfect style through intelligent recommendations.
@@ -10,7 +10,7 @@ Helping millions discover their perfect style through intelligent recommendation
 **Founded:** 2025
 **Team:** [Founder Names]
 
-**Contact:** founders@swaagi.com
+**Contact:** founders@swaagdom.com
 
 ---
 
@@ -29,7 +29,7 @@ Fashion is personal, but current technology treats everyone the same. There's a 
 ---
 
 ## Slide 3: Our Solution
-### SWAAGI: Personalized Fashion Discovery
+### SWAAGDOM: Personalized Fashion Discovery
 
 **How It Works:**
 Users describe what they're looking for in natural language. Our AI understands the context and recommends complete outfits from multiple brands.
@@ -106,7 +106,7 @@ Capturing just 1% of the serviceable market represents $1.56B in GMV. We're buil
 - Similar model to Stitch Fix, but with broader inventory
 
 **Secondary Revenue: Premium Subscriptions (10%)**
-- SWAAGI Pro: $9.99/month
+- SWAAGDOM Pro: $9.99/month
 - Premium features, unlimited styling
 - Target: 15% conversion rate
 
@@ -278,7 +278,7 @@ Capturing just 1% of the serviceable market represents $1.56B in GMV. We're buil
 ---
 
 ## Slide 15: The Investment
-### Why SWAAGI, Why Now
+### Why SWAAGDOM, Why Now
 
 **Market Timing:**
 - AI/NLP technology is mature enough to deliver real value
@@ -299,8 +299,8 @@ Capturing just 1% of the serviceable market represents $1.56B in GMV. We're buil
 - Use: 18-month runway to profitability or Series A
 
 **Let's Talk:**
-- Email: founders@swaagi.com
-- Website: www.swaagi.com
+- Email: founders@swaagdom.com
+- Website: www.swaagdom.com
 - Schedule a demo: [Calendar link]
 
 ---

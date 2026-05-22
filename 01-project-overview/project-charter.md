@@ -1,8 +1,8 @@
-# SWAAGI Platform - Project Charter
+# SWAAGDOM Platform - Project Charter
 
 ## Project Information
 
-**Project Name**: SWAAGI (AI-Powered Style Companion Platform)  
+**Project Name**: SWAAGDOM (AI-Powered Style Companion Platform)  
 **Project Start Date**: January 2024  
 **Expected Completion**: Q3 2024
 **Current Status**: October 2025 - Active Development  
@@ -15,7 +15,7 @@ To create a revolutionary AI-powered fashion platform that celebrates cultural d
 
 ## Project Mission
 
-SWAAGI bridges the gap between global fashion trends and modern AI technology, helping everyone find their swag anywhere in the world. Providing users with culturally-aware, personalized fashion recommendations while celebrating diversity and confidence through international style.
+SWAAGDOM bridges the gap between global fashion trends and modern AI technology, helping everyone find their swag anywhere in the world. Providing users with culturally-aware, personalized fashion recommendations while celebrating diversity and confidence through international style.
 
 ## Project Objectives
 
@@ -182,6 +182,6 @@ SWAAGI bridges the gap between global fashion trends and modern AI technology, h
 
 ---
 
-**SWAAGI Project Charter** - Building bridges between global style and modern technology.
+**SWAAGDOM Project Charter** - Building bridges between global style and modern technology.
 
 *Developed by [Hexadigitall](https://hexadigitall.com) - From Idea to Impact.*

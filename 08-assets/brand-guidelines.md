@@ -1,9 +1,9 @@
-# SWAAGI Brand Guidelines
+# SWAAGDOM Brand Guidelines
 
 ## Brand Identity
 
 ### Brand Name
-**SWAAGI** - inspired by "Swag", representing style, confidence, and modern international fashion
+**SWAAGDOM** - inspired by "Swag", representing style, confidence, and modern international fashion
 
 ### Brand Essence
 - **Beautiful**: Celebrating aesthetic diversity across cultures
@@ -214,7 +214,7 @@ swaagi-color-palette-primary.pdf
 ## Brand Protection
 
 ### Logo Usage Rights
-- Official SWAAGI applications only
+- Official SWAAGDOM applications only
 - No modification without approval
 - Maintain minimum clear space
 - Respect color integrity
@@ -247,6 +247,6 @@ swaagi-color-palette-primary.pdf
 
 ---
 
-**SWAAGI Brand Guidelines** - Beautiful, respectful, sustainable fashion branding.
+**SWAAGDOM Brand Guidelines** - Beautiful, respectful, sustainable fashion branding.
 
 *Brand development by [Hexadigitall](https://hexadigitall.com) - From Idea to Impact.*

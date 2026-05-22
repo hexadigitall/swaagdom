@@ -1,13 +1,13 @@
-# SWAAGI Platform - API Documentation
+# SWAAGDOM Platform - API Documentation
 
 ## Overview
 
-The SWAAGI API provides endpoints for AI-powered fashion styling, global trend discovery, and personalized fashion recommendations. Built with cultural sensitivity and worldwide accessibility in mind.
+The SWAAGDOM API provides endpoints for AI-powered fashion styling, global trend discovery, and personalized fashion recommendations. Built with cultural sensitivity and worldwide accessibility in mind.
 
 ## Base URL
 ```
-Production: https://api.swaagi.fashion/v1
-Staging: https://staging-api.swaagi.fashion/v1
+Production: https://api.swaagdom.fashion/v1
+Staging: https://staging-api.swaagdom.fashion/v1
 ```
 
 ## Authentication
@@ -379,14 +379,14 @@ Authorization: Bearer {jwt_token}
 
 ### JavaScript/TypeScript
 ```bash
-npm install @swaagi/sdk
+npm install @swaagdom/sdk
 ```
 
 ```typescript
-import { SwaagiClient } from '@swaagi/sdk';
+import { SwaagdomClient } from '@swaagdom/sdk';
 
-const client = new SwaagiClient({
-  apiKey: process.env.SWAAGI_API_KEY,
+const client = new SwaagdomClient({
+  apiKey: process.env.SWAAGDOM_API_KEY,
   culturalSensitivity: 'high'
 });
 
@@ -399,14 +399,14 @@ const analysis = await client.style.analyze({
 
 ### Python
 ```bash
-pip install swaagi-python-sdk
+pip install swaagdom-python-sdk
 ```
 
 ```python
-from swaagi import SwaagiClient
+from swaagdom import SwaagdomClient
 
-client = SwaagiClient(
-    api_key=os.getenv('SWAAGI_API_KEY'),
+client = SwaagdomClient(
+    api_key=os.getenv('SWAAGDOM_API_KEY'),
     cultural_sensitivity='high'
 )
 
@@ -465,6 +465,6 @@ analysis = client.style.analyze(
 
 ---
 
-**SWAAGI API** - Connecting fashion with global style and worldwide accessibility.
+**SWAAGDOM API** - Connecting fashion with global style and worldwide accessibility.
 
 *Building bridges between heritage and modern style.*

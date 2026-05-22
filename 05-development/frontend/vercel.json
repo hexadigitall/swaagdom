@@ -2,7 +2,7 @@
   "version": 2,
   "framework": "nextjs",
   "env": {
-    "NEXT_PUBLIC_APP_NAME": "SWAAGI",
+    "NEXT_PUBLIC_APP_NAME": "SWAAGDOM",
     "NEXT_PUBLIC_APP_DESCRIPTION": "Your drip is just a vibe away. Where AI meets drip. Look iconic. Feel iconic. Be iconic."
   }
 }

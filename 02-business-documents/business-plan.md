@@ -1,8 +1,8 @@
-# SWAAGI Business Plan - Where AI Meets Drip 🔥
+# SWAAGDOM Business Plan - Where AI Meets Drip 🔥
 
 ## Executive Summary
 
-**SWAAGI** - *Your drip is just a vibe away.*
+**SWAAGDOM** - *Your drip is just a vibe away.*
 
 We're not just another fashion app. We're a cultural movement powered by AI that actually gets your vibe. From Tokyo to Lagos, Seoul to New York, we're making everyone feel iconic—one fit at a time.
 
@@ -46,7 +46,7 @@ Making everyone feel iconic, everywhere. Democratizing world-class style through
 - **Trend Ahead**: Be the one everyone copies
 - **Community-Driven**: Built by culture, for culture
 
-**The SWAAGI Promise:** You deserve to feel iconic. We'll get you there.
+**The SWAAGDOM Promise:** You deserve to feel iconic. We'll get you there.
 
 ## Business Model
 
@@ -200,10 +200,10 @@ Making everyone feel iconic, everywhere. Democratizing world-class style through
 
 ---
 
-**SWAAGI** - Where AI meets drip. Where style meets confidence. Where everyone becomes iconic.
+**SWAAGDOM** - Where AI meets drip. Where style meets confidence. Where everyone becomes iconic.
 
 *Your drip is just a vibe away.* 🔥
 
-**Join the revolution. Invest in the movement. Be part of #SwaagiNation.** ✨
+**Join the revolution. Invest in the movement. Be part of #SwaagdomNation.** ✨
 
 *Not just fashion tech. A cultural shift.*

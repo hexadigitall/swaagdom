@@ -1,8 +1,8 @@
-# SWAAGI Brand Identity Guide
+# SWAAGDOM Brand Identity Guide
 
 ## Brand Overview
 
-**SWAAGI** is an AI-powered personal styling platform that makes fashion discovery simple and personalized for everyone, everywhere.
+**SWAAGDOM** is an AI-powered personal styling platform that makes fashion discovery simple and personalized for everyone, everywhere.
 
 ### Our Philosophy
 We believe finding your perfect style shouldn't be complicated. Everyone has their own unique aesthetic, and our job is to help them discover it—whether they're into streetwear, classic looks, or anything in between.
@@ -131,7 +131,7 @@ We believe finding your perfect style shouldn't be complicated. Everyone has the
 - **Energy:** High-energy, trend-forward, empowering
 - **Attitude:** No cap, just facts. Real talk, real style.
 
-### The SWAAGI Lexicon
+### The SWAAGDOM Lexicon
 - **Drip**: Your style, your aesthetic, your vibe
 - **Fit**: An outfit that goes hard
 - **Vibe**: The energy, mood, or aesthetic you're serving
@@ -155,7 +155,7 @@ We believe finding your perfect style shouldn't be complicated. Everyone has the
 ```jsx
 <img 
   src="/logos/swaagi-mark-64.png" 
-  alt="SWAAGI" 
+  alt="SWAAGDOM" 
   className="h-8 w-8" 
 />
 ```
@@ -164,7 +164,7 @@ We believe finding your perfect style shouldn't be complicated. Everyone has the
 ```jsx
 <img 
   src="/logos/swaagi-logo-small.png" 
-  alt="SWAAGI" 
+  alt="SWAAGDOM" 
   className="h-8 mb-2" 
 />
 ```
@@ -193,7 +193,7 @@ We believe finding your perfect style shouldn't be complicated. Everyone has the
 
 ### Web Headers
 - Use `swaagi-mark-64.png` for standard navigation
-- Pair with "SWAAGI" text in brand font
+- Pair with "SWAAGDOM" text in brand font
 - Apply golden gradient to text when possible
 
 ### Social Media
@@ -235,7 +235,7 @@ theme: {
 
 ---
 
-**SWAAGI** - Your Drip Is Just A Vibe Away 🔥✨
-*Where AI meets drip. Where style meets confidence. Where you meet iconic.*
+**SWAAGDOM — Style, intelligently.**
+*Discover fashion, swaggadishly.*
 
-**#SwaagiNation** | **#DrippedByAI** | **#FindYourSwag** | **#IconicEveryday**
+**#SwaagdomNation** | **#DrippedByAI** | **#FindYourSwag** | **#IconicEveryday**

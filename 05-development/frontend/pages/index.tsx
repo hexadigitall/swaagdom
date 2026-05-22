@@ -35,14 +35,14 @@ export default function HomePage() {
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               <span className="block text-neutral-900 dark:text-white">Meet</span>
               <span className="block bg-gradient-to-r from-accent-600 via-accent-500 to-accent-400 bg-clip-text text-transparent">
-                SWAAGI
+                SWAAGDOM
               </span>
             </h1>
 
             {/* Hero Subtitle */}
             <p className="text-xl md:text-2xl text-neutral-600 dark:text-neutral-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-              <span className="font-bold text-accent-600 dark:text-accent-400">Your drip is just a vibe away.</span>
-              {" "}AI-powered style that speaks your language. From Tokyo to Lagos, your next iconic fit starts here. 🔥
+              <span className="font-bold text-accent-600 dark:text-accent-400">Style, intelligently.</span>
+              {" "}Discover fashion, swaggadishly—from Tokyo to Lagos and beyond.
             </p>
 
             {/* CTA Buttons */}
@@ -74,7 +74,7 @@ export default function HomePage() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-3xl md:text-4xl font-bold text-neutral-900 dark:text-white mb-4">
-              Why SWAAGI Is Different 💎
+              Why SWAAGDOM Is Different 💎
             </h2>
             <p className="text-lg text-neutral-600 dark:text-neutral-400 max-w-2xl mx-auto">
               Not just another fashion app. This is where culture meets closet, where AI gets your vibe, and where your style evolution begins. No cap. 🚀
@@ -190,7 +190,7 @@ export default function HomePage() {
               href="/style"
               className="inline-flex items-center px-8 py-4 bg-white text-accent-600 rounded-lg font-semibold text-lg hover:bg-accent-50 transition-colors focus-ring"
             >
-              Start with SWAAGI
+              Start with SWAAGDOM
               <Sparkles className="ml-2 h-5 w-5" />
             </Link>
           </motion.div>

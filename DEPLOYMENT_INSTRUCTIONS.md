@@ -1,10 +1,10 @@
-# 🚀 SWAAGI Deployment Guide
+# 🚀 SWAAGDOM Deployment Guide
 
 ## Step 1: Create GitHub Repository
 
 1. **Go to GitHub** → https://github.com/new
 2. **Repository name:** `swaagi-platform`
-3. **Description:** `SWAAGI - Your AI-powered style companion. Find your swag, anywhere in the world. Personalized styling recommendations celebrating global diversity.`
+3. **Description:** `SWAAGDOM - Your AI-powered style companion. Find your swag, anywhere in the world. Personalized styling recommendations celebrating global diversity.`
 4. **Visibility:** Choose Public or Private
 5. **DON'T initialize** with README, .gitignore, or license (we already have them)
 6. **Click "Create repository"**
@@ -52,7 +52,7 @@ npx vercel --prod
 
 Your app will be available at a URL like:
 - `https://swaagi-platform.vercel.app`
-- Or a custom domain if you set one up (e.g., `swaagi.com`, `swaagi.app`)
+- Or a custom domain if you set one up (e.g., `swaagdom.com`, `swaagi.app`)
 
 ## 🎯 Expected Results
 
@@ -89,5 +89,5 @@ The app works perfectly despite some hydration warnings (time display issue). Th
 
 ## 🎉 You're Done!
 
-Your SWAAGI platform is now live and accessible from anywhere!
+Your SWAAGDOM platform is now live and accessible from anywhere!
 Share the URL with others to test on different devices.

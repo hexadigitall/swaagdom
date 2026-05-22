@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# SWAAGI Full Stack Development Setup
+# SWAAGDOM Full Stack Development Setup
 # This script sets up the complete development environment
 
 set -e
 
-echo "🚀 SWAAGI Full Stack Development Setup"
+echo "🚀 SWAAGDOM Full Stack Development Setup"
 echo "======================================="
 echo ""
 
@@ -77,7 +77,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
 app = FastAPI(
-    title="SWAAGI API",
+    title="SWAAGDOM API",
     description="Conversational AI Fashion Platform",
     version="1.0.0"
 )
@@ -92,11 +92,11 @@ app.add_middleware(
 
 @app.get("/")
 async def root():
-    return {"message": "SWAAGI API is running!", "status": "healthy"}
+    return {"message": "SWAAGDOM API is running!", "status": "healthy"}
 
 @app.get("/health")
 async def health_check():
-    return {"status": "healthy", "service": "SWAAGI API"}
+    return {"status": "healthy", "service": "SWAAGDOM API"}
 
 @app.post("/api/v1/style/analyze")
 async def analyze_style(request: dict):
@@ -134,7 +134,7 @@ log "Setting up AI services..."
 mkdir -p ai-services/{style_processor,recommendation_engine,virtual_tryron}
 
 cat > ai-services/style_processor/main.py << 'AI'
-# SWAAGI - Style Processing Service
+# SWAAGDOM - Style Processing Service
 import openai
 from typing import Dict, List
 import json
@@ -186,7 +186,7 @@ log "Setting up database configurations..."
 mkdir -p database/{migrations,seeds,schemas}
 
 cat > database/schemas/user_schema.sql << 'SQL'
--- SWAAGI Database Schema
+-- SWAAGDOM Database Schema
 
 -- Users table
 CREATE TABLE IF NOT EXISTS users (
@@ -314,7 +314,7 @@ DOCKER
 # Create environment template
 log "Creating environment configuration..."
 cat > .env.template << 'ENV'
-# SWAAGI Environment Configuration
+# SWAAGDOM Environment Configuration
 
 # Database
 DATABASE_URL=postgresql://postgres:postgres@localhost:5432/swaagi_dev
@@ -355,7 +355,7 @@ mkdir -p scripts
 
 cat > scripts/dev-start.sh << 'DEV'
 #!/bin/bash
-echo "Starting SWAAGI Full Stack Development..."
+echo "Starting SWAAGDOM Full Stack Development..."
 
 # Start backend
 cd backend && source venv/bin/activate && python main.py &

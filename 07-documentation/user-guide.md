@@ -1,19 +1,19 @@
-# SWAAGI Platform - User Guide
+# SWAAGDOM Platform - User Guide
 
-Welcome to SWAAGI - your Beautiful AI Fashion Platform that celebrates cultural diversity and sustainable fashion choices!
+Welcome to SWAAGDOM - your Beautiful AI Fashion Platform that celebrates cultural diversity and sustainable fashion choices!
 
 ## Getting Started
 
 ### Creating Your Account
 
-1. **Visit SWAAGI**: Go to [swaagi.fashion](https://swaagi.fashion)
+1. **Visit SWAAGDOM**: Go to [swaagdom.fashion](https://swaagdom.fashion)
 2. **Sign Up**: Click "Get Started" and create your account
 3. **Cultural Profile**: Set up your cultural preferences and style interests
 4. **Personalization**: Tell us about your fashion preferences and body type
 
 ### Your Cultural Profile
 
-SWAAGI respects and celebrates your cultural heritage. When setting up your profile:
+SWAAGDOM respects and celebrates your cultural heritage. When setting up your profile:
 
 - **Cultural Background**: Share your cultural heritage (optional but helpful)
 - **Style Preferences**: Choose from traditional, modern, or fusion styles
@@ -34,7 +34,7 @@ SWAAGI respects and celebrates your cultural heritage. When setting up your prof
 ```
 You: "I need something elegant for my sister's wedding that honors our Nigerian heritage"
 
-SWAAGI AI: "I'd love to help you find something beautiful for this special occasion! 
+SWAAGDOM AI: "I'd love to help you find something beautiful for this special occasion! 
 Here are some culturally-respectful options:
 
 🌟 Modern Ankara Dress with Contemporary Cut
@@ -79,7 +79,7 @@ Here are some culturally-respectful options:
 
 ### 4. Personalized Style Learning
 
-#### How SWAAGI Learns About You
+#### How SWAAGDOM Learns About You
 - **Preference Tracking**: Your likes and dislikes improve recommendations
 - **Style Evolution**: Recommendations adapt as your style changes
 - **Cultural Journey**: Learn about new cultural fashion elements at your pace
@@ -110,7 +110,7 @@ Here are some culturally-respectful options:
 ### Advanced Features
 
 #### Virtual Styling Sessions
-- **Live Chat**: Real-time styling advice from SWAAGI's AI
+- **Live Chat**: Real-time styling advice from SWAAGDOM's AI
 - **Photo Analysis**: Upload outfit photos for detailed feedback
 - **Occasion Planning**: Get complete looks for specific events
 - **Cultural Consultation**: Extra care for culturally significant occasions
@@ -189,13 +189,13 @@ Here are some culturally-respectful options:
 - **Live Chat**: Available 24/7 for styling questions
 - **Cultural Consultation**: Schedule sessions for sensitive occasions
 - **Technical Support**: Help with platform features and troubleshooting
-- **Community Forum**: Get help from other SWAAGI users
+- **Community Forum**: Get help from other SWAAGDOM users
 
 ### Contact Information
-- **Support**: support@swaagi.fashion
-- **Cultural Consultation**: culture@swaagi.fashion
-- **Sustainability Questions**: sustainability@swaagi.fashion
-- **General Inquiries**: hello@swaagi.fashion
+- **Support**: support@swaagdom.fashion
+- **Cultural Consultation**: culture@swaagdom.fashion
+- **Sustainability Questions**: sustainability@swaagdom.fashion
+- **General Inquiries**: hello@swaagdom.fashion
 
 ## Privacy & Security
 
@@ -213,7 +213,7 @@ Here are some culturally-respectful options:
 
 ---
 
-**Welcome to SWAAGI** - Where fashion meets culture with respect and sustainability.
+**Welcome to SWAAGDOM** - Where fashion meets culture with respect and sustainability.
 
 *Experience the future of culturally-aware fashion styling.*
 
