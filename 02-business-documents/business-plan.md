@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-**SWAAGDOM** - *Your drip is just a vibe away.*
+**SWAAGDOM** - *Style, Swaggadishly.*
 
 We're not just another fashion app. We're a cultural movement powered by AI that actually gets your vibe. From Tokyo to Lagos, Seoul to New York, we're making everyone feel iconic—one fit at a time.
 
@@ -202,8 +202,8 @@ Making everyone feel iconic, everywhere. Democratizing world-class style through
 
 **SWAAGDOM** - Where AI meets drip. Where style meets confidence. Where everyone becomes iconic.
 
-*Your drip is just a vibe away.* 🔥
+*Style, Swaggadishly.* 🔥
 
-**Join the revolution. Invest in the movement. Be part of #SwaagdomNation.** ✨
+**Join the revolution. Invest in the movement. Be part of #Swaggadishly.** ✨
 
 *Not just fashion tech. A cultural shift.*
