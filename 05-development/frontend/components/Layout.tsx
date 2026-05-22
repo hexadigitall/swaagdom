@@ -118,14 +118,14 @@ const Layout: React.FC<LayoutProps> = ({ children, className = '' }) => {
               <Link 
                 href="/" 
                 className="flex items-center space-x-2 focus-ring rounded-lg p-2 -ml-2"
-                aria-label="SWAAGI Home"
+                aria-label="SWAAGDOM Home"
               >
                 <div className="relative">
-                  <img src="/logos/swaagi-mark-64.png" alt="SWAAGI" className="h-8 w-8" />
+                  <img src="/logos/swaagi-mark-64.png" alt="SWAAGDOM" className="h-8 w-8" />
                   <div className="absolute -top-1 -right-1 w-3 h-3 bg-accent-400 rounded-full animate-pulse" />
                 </div>
                 <span className="text-xl font-bold text-neutral-900 dark:text-white">
-                  SWAAGI
+                  SWAAGDOM
                 </span>
               </Link>
             </div>
@@ -287,7 +287,7 @@ const Layout: React.FC<LayoutProps> = ({ children, className = '' }) => {
       <footer className="bg-white dark:bg-neutral-900 border-t border-neutral-200 dark:border-neutral-800" role="contentinfo">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center text-sm text-neutral-600 dark:text-neutral-400">
-            <p>&copy; 2025 SWAAGI. Made by <a href="https://hexadigitall.com" target="_blank" rel="noopener noreferrer" className="text-accent-600 hover:text-accent-700 font-medium focus-ring rounded">Hexadigitall</a>.</p>
+            <p>&copy; 2025 SWAAGDOM. Made by <a href="https://hexadigitall.com" target="_blank" rel="noopener noreferrer" className="text-accent-600 hover:text-accent-700 font-medium focus-ring rounded">Hexadigitall</a>.</p>
             <div className="mt-3 space-x-4">
               <Link href="/privacy" className="hover:text-accent-600 focus-ring rounded">Privacy</Link>
               <Link href="/terms" className="hover:text-accent-600 focus-ring rounded">Terms</Link>

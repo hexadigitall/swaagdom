@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: SWAAGI Platform API
+  title: SWAAGDOM Platform API
   description: AI-Powered Style Companion - Find Your Swag, Anywhere in the World
   version: 1.0.0
   contact:

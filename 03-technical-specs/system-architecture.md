@@ -1,8 +1,8 @@
-# SWAAGI Platform - System Architecture
+# SWAAGDOM Platform - System Architecture
 
 ## Overview
 
-SWAAGI (Beautiful AI Fashion Platform) is built on a modern, scalable microservices architecture that supports global fashion discovery, AI-powered styling, and cultural appreciation features.
+SWAAGDOM (Beautiful AI Fashion Platform) is built on a modern, scalable microservices architecture that supports global fashion discovery, AI-powered styling, and cultural appreciation features.
 
 ## Architecture Principles
 
@@ -18,7 +18,7 @@ SWAAGI (Beautiful AI Fashion Platform) is built on a modern, scalable microservi
 ### Frontend Layer
 ```
 ┌─────────────────────────────────────────┐
-│             SWAAGI Frontend               │
+│             SWAAGDOM Frontend               │
 │           Next.js 14 + React 18         │
 ├─────────────────────────────────────────┤
 │ • Beautiful African-inspired UI         │
@@ -31,7 +31,7 @@ SWAAGI (Beautiful AI Fashion Platform) is built on a modern, scalable microservi
 
 **Technologies:**
 - **Framework**: Next.js 14 with App Router
-- **Styling**: Tailwind CSS with custom SWAAGI theme
+- **Styling**: Tailwind CSS with custom SWAAGDOM theme
 - **State Management**: React Context + Zustand
 - **Animations**: Framer Motion for cultural elements
 - **PWA**: Service workers for offline functionality
@@ -180,7 +180,7 @@ CREATE TABLE cultural_trends (
 
 ### Auto-scaling Strategy
 ```yaml
-# Kubernetes deployment for SWAAGI
+# Kubernetes deployment for SWAAGDOM
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -240,23 +240,23 @@ spec:
 ```
 Global Load Balancer
 ├── US-East (Primary)
-│   ├── SWAAGI API Cluster
+│   ├── SWAAGDOM API Cluster
 │   ├── AI Services
 │   └── Database (Primary)
 ├── EU-West (Secondary)
-│   ├── SWAAGI API Cluster
+│   ├── SWAAGDOM API Cluster
 │   ├── AI Services
 │   └── Database (Replica)
 └── Asia-Pacific (Future)
-    ├── SWAAGI API Cluster
+    ├── SWAAGDOM API Cluster
     ├── AI Services  
     └── Database (Replica)
 ```
 
 ### CI/CD Pipeline
 ```yaml
-# GitHub Actions for SWAAGI
-name: SWAAGI Platform Deployment
+# GitHub Actions for SWAAGDOM
+name: SWAAGDOM Platform Deployment
 on:
   push:
     branches: [main]
@@ -297,6 +297,6 @@ jobs:
 
 ---
 
-**SWAAGI Architecture** - Built for scale, designed with cultural appreciation, optimized for global fashion discovery.
+**SWAAGDOM Architecture** - Built for scale, designed with cultural appreciation, optimized for global fashion discovery.
 
 *Technology stack celebrating diversity while delivering performance.*

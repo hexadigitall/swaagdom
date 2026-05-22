@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# SWAAGI Preview Server Setup
+# SWAAGDOM Preview Server Setup
 # This script sets up and runs the development server for preview
 
 set -e
 
-echo "🎨 SWAAGI Preview Server Setup"
+echo "🎨 SWAAGDOM Preview Server Setup"
 echo "================================"
 
 # Colors for output
@@ -99,7 +99,7 @@ if [ ! -f ".next/static/css/app.css" ]; then
 fi
 
 echo ""
-echo "🚀 Starting SWAAGI Development Server..."
+echo "🚀 Starting SWAAGDOM Development Server..."
 echo "========================================="
 echo ""
 echo "The application will be available at:"

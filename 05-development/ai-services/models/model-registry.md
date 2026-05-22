@@ -1,4 +1,4 @@
-# SWAAGI AI Models Registry
+# SWAAGDOM AI Models Registry
 
 ## Cultural Awareness Models
 

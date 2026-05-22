@@ -1,12 +1,13 @@
-# SWAAGI: Your AI Style Companion 🔥
+# SWAAGDOM
+
+**Style, Swaggadishly.**
 
 ## What We're Building
 
-SWAAGI is an AI-powered fashion platform that helps people find their perfect style. Think of it as having a personal stylist in your pocket—one that actually understands what you're looking for, whether you're in Tokyo, Lagos, New York, or London.
+SWAAGDOM is an AI-powered fashion platform for global fashion discovery and personal styling—built with intelligence and inspired by African design traditions.
 
-We built SWAAGI because we got tired of the same old fashion recommendations that miss the mark. You shouldn't have to scroll through thousands of items hoping something clicks. Just tell us what you're looking for, and we'll find it for you.
-
-**Our Promise:** Everyone deserves to look and feel their best. We're making that accessible to everyone, one outfit at a time.
+### About SWAAGDOM
+Swaagdom brings together premium technology and expressive culture to help every person discover style with confidence. We celebrate global diversity, design for inclusion, and keep the experience elegant, modern, and deeply human.
 
 ## 🌟 Features That Hit Different
 
@@ -48,7 +49,7 @@ A profile that actually knows you.
 
 ## 🚀 Experience The Revolution
 
-Visit the live application: **[SWAAGI Platform](https://swaagi-platform.vercel.app)** 
+Visit the live application: **[SWAAGDOM Platform](https://swaagi-platform.vercel.app)** 
 
 **Try it now and see why they're calling it "the future of fashion." No cap.** 🔥
 
@@ -64,7 +65,7 @@ Visit the live application: **[SWAAGI Platform](https://swaagi-platform.vercel.a
 
 ## 💎 Join The Movement
 
-**#SwaagiNation** is growing. Are you in?
+**#Swaggadishly** is growing. Are you in?
 
 - 🌍 **Global Community**: Style has no borders
 - ✨ **Daily Inspiration**: Fresh looks, daily drops
@@ -214,14 +215,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Vibe With Us**: [community.swaagi.com](https://community.swaagi.com)
 - **Hit Us Up**: hello@swaagi.com
-- **Join The Discord**: [SWAAGI Nation](https://discord.gg/swaagi)
+- **Join The Discord**: [SWAAGDOM Nation](https://discord.gg/swaagi)
 - **Report Issues**: [GitHub](https://github.com/hexadigitall/swaagi-platform/issues)
 
 ## 👥 The Squad
 
 Built by people who get it. For people who get it.
 
-**The SWAAGI Team:**
+**The SWAAGDOM Team:**
 - 🤖 AI that understands culture
 - 🎨 Design that doesn't compromise
 - 🌍 Global perspective, local vibes
@@ -229,20 +230,42 @@ Built by people who get it. For people who get it.
 
 ---
 
-**Look iconic. Feel iconic. Be iconic.** ✨
-
-**Your drip is just a vibe away.** 🔥
+**Style, Swaggadishly.** ✨
 
 ---
 
-*Powered by culture. Built by [Hexadigitall](https://hexadigitall.com). Made for everyone who refuses to be basic.*
+*Powered by culture. Built by [Hexadigitall](https://hexadigitall.com). Made for everyone with a point of view.*
 
-**#SwaagiNation** | **#DrippedByAI** | **#FindYourSwag** | **#IconicEveryday**
+**#Swaggadishly** | **#DrippedByAI** | **#FindYourSwag** | **#IconicEveryday**
 
 ---
 
 ## 📝 Rebranding Note
 
-This project was previously known as "DARA" and "StyleAI" during early development phases. As of November 2025, the platform has been officially rebranded to **SWAAGI** to better reflect our core mission: delivering an AI-powered fashion platform that helps everyone find their perfect style. All references throughout the codebase, documentation, configuration, and assets have been updated to use the SWAAGI branding consistently.
+This project was previously known as "DARA" and "StyleAI" during early development phases. As of November 2025, the platform has been officially rebranded to **SWAAGDOM** to better reflect our core mission: delivering an AI-powered fashion platform that helps everyone find their perfect style. All references throughout the codebase, documentation, configuration, and assets have been updated to use the SWAAGDOM branding consistently.
 
-**SWAAGI** is an AI-powered fashion platform that celebrates global diversity while drawing inspiration from African design traditions.
+**SWAAGDOM** is an AI-powered fashion platform that celebrates global diversity while drawing inspiration from African design traditions.
+
+## 🗣 Brand Voice Guide (Concise)
+
+### Voice Attributes
+- Premium and expressive
+- Culturally grounded and globally fluent
+- Confident, modern, and inclusive
+
+### Tone: Do / Don't
+- ✅ **Do:** Write with clarity, warmth, and editorial polish.
+- ✅ **Do:** Celebrate individuality and cultural diversity respectfully.
+- ✅ **Do:** Keep AI language helpful, not mechanical.
+- ❌ **Don't:** Use forced slang, gimmicks, or caricatured cultural references.
+- ❌ **Don't:** Sound exclusive, dismissive, or trend-chasing.
+
+### Using **Swaggadishly**
+- Use **Swaggadishly** as a campaign/editorial tone marker, not as the product name.
+- Best placements: taglines, campaign headlines, social captions, and expressive CTAs.
+- Preferred construction: **"Style, Swaggadishly."**
+
+### Example Copy Snippets
+- "Discover global style, curated with intelligence and worn Swaggadishly."
+- "From Lagos to London, style intelligence for every expression."
+- "Swaagdom helps you dress with confidence—boldly, elegantly, Swaggadishly."
