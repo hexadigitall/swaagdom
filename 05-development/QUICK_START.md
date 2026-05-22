@@ -1,4 +1,4 @@
-# SWAAGI - Quick Start Guide
+# SWAAGDOM - Quick Start Guide
 
 ## 🎯 How to Run the App
 

@@ -1,4 +1,4 @@
-# SWAAGI MVP - Technical Specifications
+# SWAAGDOM MVP - Technical Specifications
 
 ## MVP Overview
 **Goal:** Validate product-market fit with core AI-powered style companion

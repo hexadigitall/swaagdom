@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Starting SWAAGI Full Stack Development..."
+echo "Starting SWAAGDOM Full Stack Development..."
 
 # Start backend
 cd backend && source venv/bin/activate && python main.py &

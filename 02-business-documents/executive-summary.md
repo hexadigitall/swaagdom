@@ -1,8 +1,8 @@
-# SWAAGI - Executive Summary
+# SWAAGDOM - Executive Summary
 
 ## Business Overview
 
-**Company Name:** SWAAGI  
+**Company Name:** SWAAGDOM  
 **Founded:** 2025  
 **Location:** [City, Country]
 
@@ -24,10 +24,10 @@
 - Virtual try-on technology exists but isn't integrated with comprehensive shopping
 - AI fashion recommendations are basic and don't understand nuanced style preferences
 
-## Our Solution: SWAAGI
+## Our Solution: SWAAGDOM
 
 ### Core Innovation
-SWAAGI uses natural language processing to understand what users are looking for and recommends complete outfits from multiple brands. Users describe their needs in plain language, and our AI does the heavy lifting.
+SWAAGDOM uses natural language processing to understand what users are looking for and recommends complete outfits from multiple brands. Users describe their needs in plain language, and our AI does the heavy lifting.
 
 **Example User Queries:**
 - "I need professional outfits for client meetings"
@@ -86,7 +86,7 @@ Our AI creates complete outfit combinations from millions of products across par
    - Target: 50,000 transactions/month by Year 2
 
 2. **Premium Subscriptions (25% of revenue)**
-   - SWAAGI Pro: $9.99/month
+   - SWAAGDOM Pro: $9.99/month
      - Unlimited styling requests
      - Advanced virtual try-on
      - Early access to global trends

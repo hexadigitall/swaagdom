@@ -1,8 +1,8 @@
-# SWAAGI Platform - Developer Guide
+# SWAAGDOM Platform - Developer Guide
 
 ## Overview
 
-This developer guide provides comprehensive information for contributing to the SWAAGI platform, including setup instructions, architecture overview, coding standards, and deployment procedures.
+This developer guide provides comprehensive information for contributing to the SWAAGDOM platform, including setup instructions, architecture overview, coding standards, and deployment procedures.
 
 ## Quick Start
 
@@ -41,7 +41,7 @@ cp .env.template .env
 
 #### Frontend
 - **Framework**: Next.js 14 with App Router
-- **Styling**: Tailwind CSS with custom SWAAGI theme
+- **Styling**: Tailwind CSS with custom SWAAGDOM theme
 - **State Management**: React Context + Zustand
 - **Animations**: Framer Motion
 - **Testing**: Jest + React Testing Library
@@ -565,7 +565,7 @@ services:
 ### CI/CD Pipeline
 ```yaml
 # .github/workflows/swaagi-ci-cd.yml
-name: SWAAGI Platform CI/CD
+name: SWAAGDOM Platform CI/CD
 
 on:
   push:
@@ -600,7 +600,7 @@ jobs:
       - name: Deploy to Production
         run: |
           # Deployment steps with cultural verification
-          echo "Deploying SWAAGI with cultural sensitivity verified"
+          echo "Deploying SWAAGDOM with cultural sensitivity verified"
 ```
 
 ## Contributing
@@ -623,6 +623,6 @@ jobs:
 
 ---
 
-**SWAAGI Developer Guide** - Building the future of globally-aware fashion technology.
+**SWAAGDOM Developer Guide** - Building the future of globally-aware fashion technology.
 
 *Development platform by [Hexadigitall](https://hexadigitall.com) - From Idea to Impact.*

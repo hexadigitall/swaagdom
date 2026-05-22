@@ -1,7 +1,7 @@
 {
   "name": "swaagi-frontend",
   "version": "1.0.0",
-  "description": "SWAAGI Frontend - AI-Powered Style Companion Platform",
+  "description": "SWAAGDOM Frontend - AI-Powered Global Fashion Platform",
   "private": true,
   "scripts": {
     "dev": "next dev",

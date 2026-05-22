@@ -1,7 +1,7 @@
 {
-  "name": "SWAAGI - Your Drip Is Just A Vibe Away",
-  "short_name": "SWAAGI",
-  "description": "Where AI meets drip. Level up your fit with AI that gets your vibe. Look iconic. Feel iconic. Be iconic. 🔥",
+  "name": "SWAAGDOM - Style, Swaggadishly.",
+  "short_name": "SWAAGDOM",
+  "description": "Swaagdom is an AI-powered fashion platform for global discovery, inspired by African design traditions. Style, Swaggadishly.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -32,7 +32,7 @@
       "src": "/logos/swaagi-logo-large.png",
       "sizes": "800x240",
       "type": "image/png",
-      "label": "SWAAGI AI Style Companion"
+      "label": "SWAAGDOM AI Style Companion"
     }
   ]
 }

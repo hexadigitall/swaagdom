@@ -1,8 +1,8 @@
-# SWAAGI - Investor Materials & Funding Strategy
+# SWAAGDOM - Investor Materials & Funding Strategy
 
 ## Executive Summary for Investors
 
-**Company:** SWAAGI  
+**Company:** SWAAGDOM  
 **Sector:** Fashion Technology / AI Consumer Applications  
 **Stage:** Seed Round  
 **Seeking:** $1.2M  
@@ -10,9 +10,9 @@
 **Use of Funds:** Product development, team building, market entry  
 
 ### The Opportunity
-SWAAGI isn't just another fashion app—it's a movement. We're capturing the $668B global fashion e-commerce market by solving what no one else has: making AI actually understand style. 
+SWAAGDOM isn't just another fashion app—it's a movement. We're capturing the $668B global fashion e-commerce market by solving what no one else has: making AI actually understand style. 
 
-**The Pitch:** Your drip is just a vibe away. We're turning fashion discovery from a chore into a culture. From Gen Z to millennials, from Tokyo to Lagos, everyone deserves to feel iconic. We're making that happen with AI that doesn't just recommend—it *revolutionizes*.
+**The Pitch:** Style, Swaggadishly. We're turning fashion discovery from a chore into a culture. From Gen Z to millennials, from Tokyo to Lagos, everyone deserves to feel iconic. We're making that happen with AI that doesn't just recommend—it *revolutionizes*.
 
 ## Investment Highlights
 

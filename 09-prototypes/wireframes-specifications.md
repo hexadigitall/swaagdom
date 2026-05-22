@@ -1,8 +1,8 @@
-# SWAAGI Platform - Wireframes & Prototypes
+# SWAAGDOM Platform - Wireframes & Prototypes
 
 ## Design System Overview
 
-SWAAGI's design system is built around cultural appreciation, sustainability consciousness, and intuitive user experience. Our prototypes emphasize:
+SWAAGDOM's design system is built around cultural appreciation, sustainability consciousness, and intuitive user experience. Our prototypes emphasize:
 
 - **Cultural Sensitivity**: Respectful integration of cultural elements
 - **Accessibility**: WCAG 2.1 AA compliance
@@ -19,7 +19,7 @@ SWAAGI's design system is built around cultural appreciation, sustainability con
 ┌─────────────────────────────────┐
 │          Welcome Screen         │
 │                                 │
-│    🌟 Welcome to SWAAGI 🌟       │
+│    🌟 Welcome to SWAAGDOM 🌟       │
 │                                 │
 │  "Beautiful AI Fashion         │
 │   Platform celebrating         │
@@ -67,7 +67,7 @@ SWAAGI's design system is built around cultural appreciation, sustainability con
 #### Style Consultation Chat
 ```
 ┌─────────────────────────────────┐
-│  SWAAGI AI Stylist        [⚙️]   │
+│  SWAAGDOM AI Stylist        [⚙️]   │
 ├─────────────────────────────────┤
 │                                 │
 │  🤖 Hi! I'm your AI stylist.   │
@@ -224,7 +224,7 @@ SWAAGI's design system is built around cultural appreciation, sustainability con
 ### Mobile Navigation
 ```
 ┌─────────────────┐
-│ SWAAGI      [☰]  │
+│ SWAAGDOM      [☰]  │
 ├─────────────────┤
 │                 │
 │  [Chat with AI] │
@@ -244,7 +244,7 @@ SWAAGI's design system is built around cultural appreciation, sustainability con
 ### Tablet Adaptation
 ```
 ┌─────────────────────────────────┐
-│ SWAAGI     🏠 🤖 🌍 ♻️ 👤   [☰] │
+│ SWAAGDOM     🏠 🤖 🌍 ♻️ 👤   [☰] │
 ├─────────────────────────────────┤
 │                                 │
 │  ┌─────────┐  ┌─────────────┐   │
@@ -354,6 +354,6 @@ SWAAGI's design system is built around cultural appreciation, sustainability con
 
 ---
 
-**SWAAGI Wireframes & Prototypes** - Designing respectful, accessible, and beautiful user experiences.
+**SWAAGDOM Wireframes & Prototypes** - Designing respectful, accessible, and beautiful user experiences.
 
 *UI/UX design by [Hexadigitall](https://hexadigitall.com) - From Idea to Impact.*

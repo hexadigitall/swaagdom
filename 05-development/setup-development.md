@@ -1,4 +1,4 @@
-# SWAAGI Development Environment Setup
+# SWAAGDOM Development Environment Setup
 
 ## Prerequisites
 
@@ -506,4 +506,4 @@ cd frontend && npm install
 5. **Configure CI/CD**: GitHub Actions for automated testing
 6. **Deploy Staging**: AWS staging environment setup
 
-This development environment provides a solid foundation for building SWAAGI efficiently and collaboratively.
+This development environment provides a solid foundation for building SWAAGDOM efficiently and collaboratively.

@@ -1,4 +1,4 @@
-# SWAAGI Platform Database Configuration
+# SWAAGDOM Platform Database Configuration
 
 development:
   adapter: postgresql

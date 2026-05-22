@@ -1,8 +1,8 @@
-# SWAAGI Platform - Deployment Guide
+# SWAAGDOM Platform - Deployment Guide
 
 ## Overview
 
-This guide provides comprehensive instructions for deploying the SWAAGI platform across different environments, from development to production, with emphasis on cultural data protection and sustainable infrastructure.
+This guide provides comprehensive instructions for deploying the SWAAGDOM platform across different environments, from development to production, with emphasis on cultural data protection and sustainable infrastructure.
 
 ## Infrastructure Architecture
 
@@ -508,7 +508,7 @@ if __name__ == "__main__":
 
 ```yaml
 # .github/workflows/swaagi-deployment.yml
-name: SWAAGI Platform Deployment
+name: SWAAGDOM Platform Deployment
 
 on:
   push:
@@ -738,7 +738,7 @@ groups:
 ```json
 {
   "dashboard": {
-    "title": "SWAAGI Platform - Cultural & Sustainability Metrics",
+    "title": "SWAAGDOM Platform - Cultural & Sustainability Metrics",
     "panels": [
       {
         "title": "Cultural Sensitivity Compliance",
@@ -905,6 +905,6 @@ python scripts/validate_restored_cultural_data.py
 
 ---
 
-**SWAAGI Deployment Guide** - Deploying cultural sensitivity and sustainability at scale.
+**SWAAGDOM Deployment Guide** - Deploying cultural sensitivity and sustainability at scale.
 
 *Infrastructure by [Hexadigitall](https://hexadigitall.com) - From Idea to Impact.*

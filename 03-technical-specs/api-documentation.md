@@ -1,8 +1,8 @@
-# SWAAGI Platform - API Documentation
+# SWAAGDOM Platform - API Documentation
 
 ## Overview
 
-The SWAAGI API provides endpoints for AI-powered fashion styling, global trend discovery, and personalized fashion recommendations. Built with cultural sensitivity and worldwide accessibility in mind.
+The SWAAGDOM API provides endpoints for AI-powered fashion styling, global trend discovery, and personalized fashion recommendations. Built with cultural sensitivity and worldwide accessibility in mind.
 
 ## Base URL
 ```
@@ -465,6 +465,6 @@ analysis = client.style.analyze(
 
 ---
 
-**SWAAGI API** - Connecting fashion with global style and worldwide accessibility.
+**SWAAGDOM API** - Connecting fashion with global style and worldwide accessibility.
 
 *Building bridges between heritage and modern style.*

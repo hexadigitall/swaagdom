@@ -28,21 +28,21 @@ export default function HomePage() {
             {/* Hero Badge */}
             <div className="inline-flex items-center px-4 py-2 mb-8 bg-accent-100 dark:bg-accent-900 rounded-full text-accent-700 dark:text-accent-300">
               <Sparkles className="h-4 w-4 mr-2" />
-              <span className="text-sm font-medium">Beautiful AI Fashion for Everyone</span>
+              <span className="text-sm font-medium">Style, Swaggadishly.</span>
             </div>
 
             {/* Hero Title */}
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               <span className="block text-neutral-900 dark:text-white">Meet</span>
               <span className="block bg-gradient-to-r from-accent-600 via-accent-500 to-accent-400 bg-clip-text text-transparent">
-                SWAAGI
+                SWAAGDOM
               </span>
             </h1>
 
             {/* Hero Subtitle */}
             <p className="text-xl md:text-2xl text-neutral-600 dark:text-neutral-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-              <span className="font-bold text-accent-600 dark:text-accent-400">Your drip is just a vibe away.</span>
-              {" "}AI-powered style that speaks your language. From Tokyo to Lagos, your next iconic fit starts here. 🔥
+              <span className="font-bold text-accent-600 dark:text-accent-400">Discover global style, curated with intelligence and worn Swaggadishly.</span>
+              {" "}From Lagos to London, Swaagdom brings African-inspired perspective to modern fashion discovery.
             </p>
 
             {/* CTA Buttons */}
@@ -74,10 +74,23 @@ export default function HomePage() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-3xl md:text-4xl font-bold text-neutral-900 dark:text-white mb-4">
-              Why SWAAGI Is Different 💎
+              Why SWAAGDOM Is Different 💎
             </h2>
             <p className="text-lg text-neutral-600 dark:text-neutral-400 max-w-2xl mx-auto">
               Not just another fashion app. This is where culture meets closet, where AI gets your vibe, and where your style evolution begins. No cap. 🚀
+            </p>
+          </motion.div>
+
+          <motion.div
+            className="mb-16 max-w-3xl mx-auto rounded-2xl border border-accent-100 dark:border-accent-900 bg-accent-50/60 dark:bg-accent-900/20 p-8 text-left"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6, delay: 0.1 }}
+          >
+            <h3 className="text-2xl font-semibold text-neutral-900 dark:text-white mb-3">About Swaagdom</h3>
+            <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed">
+              Swaagdom is an AI-powered fashion platform celebrating global style diversity through an African-inspired creative lens—premium, inclusive, and made for confident self-expression.
             </p>
           </motion.div>
 
@@ -190,7 +203,7 @@ export default function HomePage() {
               href="/style"
               className="inline-flex items-center px-8 py-4 bg-white text-accent-600 rounded-lg font-semibold text-lg hover:bg-accent-50 transition-colors focus-ring"
             >
-              Start with SWAAGI
+              Start with SWAAGDOM
               <Sparkles className="ml-2 h-5 w-5" />
             </Link>
           </motion.div>
