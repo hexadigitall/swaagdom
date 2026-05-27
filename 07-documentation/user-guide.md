@@ -6,7 +6,7 @@ Welcome to SWAAGDOM - your Beautiful AI Fashion Platform that celebrates cultura
 
 ### Creating Your Account
 
-1. **Visit SWAAGDOM**: Go to [swaagi.fashion](https://swaagi.fashion)
+1. **Visit SWAAGDOM**: Go to [swaagdom.fashion](https://swaagdom.fashion)
 2. **Sign Up**: Click "Get Started" and create your account
 3. **Cultural Profile**: Set up your cultural preferences and style interests
 4. **Personalization**: Tell us about your fashion preferences and body type
@@ -192,10 +192,10 @@ Here are some culturally-respectful options:
 - **Community Forum**: Get help from other SWAAGDOM users
 
 ### Contact Information
-- **Support**: support@swaagi.fashion
-- **Cultural Consultation**: culture@swaagi.fashion
-- **Sustainability Questions**: sustainability@swaagi.fashion
-- **General Inquiries**: hello@swaagi.fashion
+- **Support**: support@swaagdom.fashion
+- **Cultural Consultation**: culture@swaagdom.fashion
+- **Sustainability Questions**: sustainability@swaagdom.fashion
+- **General Inquiries**: hello@swaagdom.fashion
 
 ## Privacy & Security
 

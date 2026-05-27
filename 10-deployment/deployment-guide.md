@@ -84,7 +84,7 @@ This guide provides comprehensive instructions for deploying the SWAAGDOM platfo
 version: '3.8'
 
 services:
-  swaagi-frontend:
+  swaagdom-frontend:
     build:
       context: ./frontend
       dockerfile: Dockerfile.dev
@@ -156,14 +156,14 @@ volumes:
 version: '3.8'
 
 services:
-  swaagi-frontend:
+  swaagdom-frontend:
     build:
       context: ./frontend
       dockerfile: Dockerfile.staging
     environment:
       - NODE_ENV=staging
-      - NEXT_PUBLIC_API_URL=https://staging-api.swaagi.fashion
-      - NEXT_PUBLIC_CULTURAL_API_URL=https://staging-cultural.swaagi.fashion
+      - NEXT_PUBLIC_API_URL=https://staging-api.swaagdom.fashion
+      - NEXT_PUBLIC_CULTURAL_API_URL=https://staging-cultural.swaagdom.fashion
 
   swaagi-backend:
     build:
@@ -192,12 +192,12 @@ services:
 version: '3.8'
 
 services:
-  swaagi-frontend:
-    image: ${DOCKER_REGISTRY}/swaagi-frontend:${VERSION}
+  swaagdom-frontend:
+    image: ${DOCKER_REGISTRY}/swaagdom-frontend:${VERSION}
     environment:
       - NODE_ENV=production
-      - NEXT_PUBLIC_API_URL=https://api.swaagi.fashion
-      - NEXT_PUBLIC_CULTURAL_API_URL=https://cultural.swaagi.fashion
+      - NEXT_PUBLIC_API_URL=https://api.swaagdom.fashion
+      - NEXT_PUBLIC_CULTURAL_API_URL=https://cultural.swaagdom.fashion
       - NEXT_PUBLIC_SENTRY_DSN=${SENTRY_DSN}
 
   swaagi-backend:
@@ -240,17 +240,17 @@ metadata:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: swaagi-frontend
+  name: swaagdom-frontend
   namespace: swaagi-platform
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: swaagi-frontend
+      app: swaagdom-frontend
   template:
     metadata:
       labels:
-        app: swaagi-frontend
+        app: swaagdom-frontend
         version: v1
     spec:
       containers:
@@ -260,7 +260,7 @@ spec:
         - containerPort: 3000
         env:
         - name: NEXT_PUBLIC_API_URL
-          value: "https://api.swaagi.fashion"
+          value: "https://api.swaagdom.fashion"
         - name: NEXT_PUBLIC_CULTURAL_SENSITIVITY
           value: "high"
         resources:
@@ -611,7 +611,7 @@ jobs:
           kubectl apply -f k8s/staging/
           
           # Wait for rollout
-          kubectl rollout status deployment/swaagi-frontend -n swaagi-staging
+          kubectl rollout status deployment/swaagdom-frontend -n swaagi-staging
           kubectl rollout status deployment/swaagi-backend -n swaagi-staging
           kubectl rollout status deployment/swaagi-cultural-ai -n swaagi-staging
       
@@ -674,9 +674,9 @@ rule_files:
   - "cultural-sensitivity-rules.yml"
 
 scrape_configs:
-  - job_name: 'swaagi-frontend'
+  - job_name: 'swaagdom-frontend'
     static_configs:
-      - targets: ['swaagi-frontend:3000']
+      - targets: ['swaagdom-frontend:3000']
     metrics_path: /api/metrics
     
   - job_name: 'swaagi-backend'

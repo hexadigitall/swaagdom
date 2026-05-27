@@ -9,9 +9,9 @@ info:
     email: support@hexadigitall.com
 
 servers:
-  - url: https://api.swaagi.fashion/v1
+  - url: https://api.swaagdom.fashion/v1
     description: Production server
-  - url: https://staging-api.swaagi.fashion/v1
+  - url: https://staging-api.swaagdom.fashion/v1
     description: Staging server
 
 paths:

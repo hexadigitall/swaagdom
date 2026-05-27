@@ -52,7 +52,7 @@ npx vercel --prod
 
 Your app will be available at a URL like:
 - `https://swaagi-platform.vercel.app`
-- Or a custom domain if you set one up (e.g., `swaagi.com`, `swaagi.app`)
+- Or a custom domain if you set one up (e.g., `swaagdom.com`, `swaagi.app`)
 
 ## 🎯 Expected Results
 

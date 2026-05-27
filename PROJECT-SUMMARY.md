@@ -188,7 +188,7 @@ The enhanced keep-warping system successfully maintained session continuity thro
 
 **Contact Information**:
 - Project Lead: [Your Name]
-- Email: team@swaagi.com
+- Email: team@swaagdom.com
 - Development Environment: Fully configured and ready
 - Funding Materials: Complete and investor-ready
 

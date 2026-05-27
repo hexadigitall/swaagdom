@@ -230,9 +230,9 @@ Our AI creates complete outfit combinations from millions of products across par
 ---
 
 **Contact Information:**
-- **Email**: team@swaagi.com
-- **Website**: www.swaagi.com
-- **LinkedIn**: /company/swaagi
+- **Email**: team@swaagdom.com
+- **Website**: www.swaagdom.com
+- **LinkedIn**: /company/swaagdom
 - **Location**: San Francisco, CA
 
 *"Making every human their most stylish self through the power of AI"*

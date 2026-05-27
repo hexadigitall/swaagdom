@@ -5,7 +5,7 @@
   "framework": "nextjs",
   "functions": {
     "05-development/frontend/pages/api/**/*.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "nodejs@18.x"
     }
   }
 }

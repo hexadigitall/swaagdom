@@ -10,7 +10,7 @@ Helping millions discover their perfect style through intelligent recommendation
 **Founded:** 2025
 **Team:** [Founder Names]
 
-**Contact:** founders@swaagi.com
+**Contact:** founders@swaagdom.com
 
 ---
 
@@ -299,8 +299,8 @@ Capturing just 1% of the serviceable market represents $1.56B in GMV. We're buil
 - Use: 18-month runway to profitability or Series A
 
 **Let's Talk:**
-- Email: founders@swaagi.com
-- Website: www.swaagi.com
+- Email: founders@swaagdom.com
+- Website: www.swaagdom.com
 - Schedule a demo: [Calendar link]
 
 ---

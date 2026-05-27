@@ -303,9 +303,9 @@ SWAAGDOM isn't just another fashion app—it's a movement. We're capturing the $
 ---
 
 **Investment Contact:**  
-📧 investors@swaagi.com  
+📧 investors@swaagdom.com  
 📞 +1 (555) 123-4567  
-🌐 www.swaagi.com/investors  
+🌐 www.swaagdom.com/investors  
 
 *"Investing in the future of fashion discovery and personal expression through AI"*
 

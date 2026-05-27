@@ -524,7 +524,7 @@ class TestAIBias:
 # docker-compose.yml
 version: '3.8'
 services:
-  swaagi-frontend:
+  swaagdom-frontend:
     build:
       context: ./frontend
       dockerfile: Dockerfile

@@ -4,7 +4,7 @@ const nextConfig = {
   
   // Image optimization
   images: {
-    domains: ['swaagi.com', 'cdn.swaagi.com', 'images.unsplash.com'],
+    domains: ['swaagdom.com', 'cdn.swaagdom.com', 'images.unsplash.com'],
     formats: ['image/webp', 'image/avif'],
   },
   

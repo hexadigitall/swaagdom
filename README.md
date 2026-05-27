@@ -213,9 +213,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♀️ Get In Touch
 
-- **Vibe With Us**: [community.swaagi.com](https://community.swaagi.com)
-- **Hit Us Up**: hello@swaagi.com
-- **Join The Discord**: [SWAAGDOM Nation](https://discord.gg/swaagi)
+- **Vibe With Us**: [community.swaagdom.com](https://community.swaagdom.com)
+- **Hit Us Up**: hello@swaagdom.com
+- **Join The Discord**: [SWAAGDOM Nation](https://discord.gg/swaagdom)
 - **Report Issues**: [GitHub](https://github.com/hexadigitall/swaagi-platform/issues)
 
 ## 👥 The Squad
