@@ -42,7 +42,7 @@ export default function HomePage() {
             {/* Hero Subtitle */}
             <p className="text-xl md:text-2xl text-neutral-600 dark:text-neutral-300 mb-8 max-w-3xl mx-auto leading-relaxed">
               <span className="font-bold text-accent-600 dark:text-accent-400">Discover global style, curated with intelligence and worn Swaggadishly.</span>
-              {" "}From Lagos to London, Swaagdom brings African-inspired perspective to modern fashion discovery.
+              {' '}Inspired by African design traditions and built for modern self-expression.
             </p>
 
             {/* CTA Buttons */}
@@ -90,7 +90,7 @@ export default function HomePage() {
           >
             <h3 className="text-2xl font-semibold text-neutral-900 dark:text-white mb-3">About Swaagdom</h3>
             <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed">
-              Swaagdom is an AI-powered fashion platform celebrating global style diversity through an African-inspired creative lens—premium, inclusive, and made for confident self-expression.
+              Swaagdom brings together intelligent styling and culturally grounded creativity to help people discover their personal style with confidence. We design for global diversity with a premium, inclusive point of view.
             </p>
           </motion.div>
 

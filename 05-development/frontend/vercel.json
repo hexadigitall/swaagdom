@@ -3,6 +3,6 @@
   "framework": "nextjs",
   "env": {
     "NEXT_PUBLIC_APP_NAME": "SWAAGDOM",
-    "NEXT_PUBLIC_APP_DESCRIPTION": "Swaagdom is an AI-powered global fashion platform inspired by African design traditions. Style, Swaggadishly."
+    "NEXT_PUBLIC_APP_DESCRIPTION": "Swaagdom is an AI-powered fashion platform for global style discovery, inspired by African design traditions and built for modern self-expression."
   }
 }

@@ -4,10 +4,10 @@
 
 ## What We're Building
 
-SWAAGDOM is an AI-powered fashion platform for global fashion discovery and personal styling—built with intelligence and inspired by African design traditions.
+Swaagdom is an AI-powered fashion platform for global style discovery, inspired by African design traditions and built for modern self-expression.
 
 ### About SWAAGDOM
-Swaagdom brings together premium technology and expressive culture to help every person discover style with confidence. We celebrate global diversity, design for inclusion, and keep the experience elegant, modern, and deeply human.
+Swaagdom brings together intelligent styling and culturally grounded creativity to help people discover their personal style with confidence. We design for global diversity with a premium, inclusive point of view.
 
 ## 🌟 Features That Hit Different
 

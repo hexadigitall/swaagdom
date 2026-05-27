@@ -8,7 +8,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
       <Head>
         <title>SWAAGDOM — Style, Swaggadishly.</title>
-        <meta name="description" content="Swaagdom is an AI-powered fashion platform for global discovery, inspired by African design traditions. Style, Swaggadishly." />
+        <meta name="description" content="Swaagdom is an AI-powered fashion platform for global style discovery, inspired by African design traditions and built for modern self-expression." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         
         {/* Favicons */}
@@ -24,12 +24,12 @@ export default function App({ Component, pageProps }: AppProps) {
         
         {/* SEO Meta */}
         <meta property="og:title" content="SWAAGDOM — Style, Swaggadishly." />
-        <meta property="og:description" content="Discover global style, curated with intelligence and grounded in African-inspired creativity." />
+        <meta property="og:description" content="Swaagdom brings together intelligent styling and culturally grounded creativity for modern self-expression." />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/logos/swaagi-logo-large.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="SWAAGDOM — Style, Swaggadishly." />
-        <meta name="twitter:description" content="AI-powered global fashion discovery with an African-inspired perspective. #Swaggadishly" />
+        <meta name="twitter:description" content="Swaagdom brings together intelligent styling and culturally grounded creativity for modern self-expression." />
         
         {/* Preconnect to optimize performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
