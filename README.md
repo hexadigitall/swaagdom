@@ -244,7 +244,7 @@ Built by people who get it. For people who get it.
 
 This project was previously known as "DARA" and "StyleAI" during early development phases. As of November 2025, the platform has been officially rebranded to **SWAAGDOM** to better reflect our core mission: delivering an AI-powered fashion platform that helps everyone find their perfect style. All references throughout the codebase, documentation, configuration, and assets have been updated to use the SWAAGDOM branding consistently.
 
-**SWAAGDOM** is an AI-powered fashion platform for global style discovery, inspired by African design traditions and built for modern self-expression.
+**SWAAGDOM** is an AI-powered fashion platform that celebrates global diversity while drawing inspiration from African design traditions.
 
 ## 🗣 Brand Voice Guide (Concise)
 
